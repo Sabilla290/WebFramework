@@ -1,10 +1,10 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
+import 'bootstrap/dist/css/bootstrap.min.css';
 import * as serviceWorker from './serviceWorker';
-import HelloComponent from './component/HelloComponent';
-import StateFullComponent from './container/StateFullComponent';
+import BlogPost from "./container/BlogPost/BlogPost";
+import Mahasiswa from "./container/Mahasiswa/Mahasiswa";
 //function HelloWord(argument) {
 	// body...
 //	return <p> ini adalah function component</p>
@@ -13,7 +13,7 @@ import StateFullComponent from './container/StateFullComponent';
 
 
 
-ReactDOM.render(<HelloComponent />, document.getElementById('root'));
+ReactDOM.render(<Mahasiswa />, document.getElementById('content'));
 
 // //If you want your app to work offline and load faster, you can change
 // unregister() to register() below. Note this comes with some pitfalls.

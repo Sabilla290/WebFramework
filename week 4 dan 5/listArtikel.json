@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "userId": 1,
+      "id": 1583399064864,
+      "title": "eksplanatif",
+      "body": "Artikel eksplanatif (penjelasan) adalah suatu artikel yang di dalamnya mengkaji, memaparkan atau menjabarkan tentang suatu masalah yang ada. Penjabaran yang dilakukan tak hanya secara umum, namun penjabaran dijabarkan secara gamblang, jelas dan detail. Isi dari artikel lebih besar menampilkan pendapat atau sudut pandang si penulis mengenai topik yang telah dipilih."
+    },
+    {
+      "userId": 1,
+      "id": 1583402045628,
+      "title": "hai",
+      "body": "haha"
+    }
+  ]
+}

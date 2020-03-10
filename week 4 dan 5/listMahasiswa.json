@@ -1,0 +1,40 @@
+{
+  "mahasiswa": [
+    {
+      "nim": "1741720066",
+      "nama": "Sinta Ayu Sabilla",
+      "alamat": "Jln.kesumba",
+      "hp": "089676760420",
+      "angkatan": "2017",
+      "status": "aktif",
+      "id": "1741720066"
+    },
+    {
+      "nim": "1541720100",
+      "nama": "Dini Triana Dewi",
+      "alamat": "Jln. Semanggi",
+      "hp": "081213456310",
+      "angkatan": "2017",
+      "status": "lulus",
+      "id": "1541720100"
+    },
+    {
+      "nim": "1741720150",
+      "nama": "Afifah Millatina",
+      "alamat": "Jln. Mekarsari",
+      "hp": "089768555289",
+      "angkatan": "2017",
+      "status": "aktif",
+      "id": "1741720150"
+    },
+    {
+      "nim": "16241720077",
+      "nama": "Dika Rahma",
+      "alamat": "jln. Danau Poso",
+      "hp": "0891267855728",
+      "angkatan": "20016",
+      "status": "cuti",
+      "id": "16241720077"
+    }
+  ]
+}
