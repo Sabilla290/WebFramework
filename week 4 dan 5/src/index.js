@@ -13,7 +13,7 @@ import Mahasiswa from "./container/Mahasiswa/Mahasiswa";
 
 
 
-ReactDOM.render(<Mahasiswa />, document.getElementById('content'));
+ReactDOM.render(<BlogPost />, document.getElementById('content'));
 
 // //If you want your app to work offline and load faster, you can change
 // unregister() to register() below. Note this comes with some pitfalls.
